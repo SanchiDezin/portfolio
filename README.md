@@ -12,7 +12,7 @@
       <h1>Welcome to My Graphic Design Portfolio</h1>
       <nav>
         <ul>
-          <li><a href="#about">About Me </a>"I am a creative and passionate graphic designer with a strong eye for detail, specializing in branding, digital illustration, and UI/UX design. I strive to create designs that not only look visually appealing but also connect with the audience and tell a compelling story."</li>
+         
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -50,15 +50,15 @@
     <h2>Contact Me</h2>
     <p>If you'd like to work with me, feel free to reach out!</p>
     <form id="contact-form">
-      <input type="text" placeholder="Your Name" required>
-      <input type="email" placeholder="Your Email" required>
+      <input type="text" placeholder="Sanchith Kulal" required>
+      <input type="email" placeholder="Sanchithkulal7@gmail.com" required>
       <textarea placeholder="Your Message" required></textarea>
       <button type="submit">Send Message</button>
     </form>
   </section>
 
   <footer>
-    <p>&copy; 2024 Your Name | Graphic Design Portfolio</p>
+    <p>&copy; 2024 Sanchith | Graphic Design Portfolio</p>
   </footer>
 
   <script src="script.js"></script>
