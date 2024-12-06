@@ -24,7 +24,7 @@
     <h2>My Projects</h2>
     <div class="gallery">
       <div class="project">
-        <img src="Elevate customer experience!.jpg.jpg" alt="Design 1">
+        <img src="Elevate customer experience!.jpg" alt="Design 1">
         <h3>Project 1</h3>
         <p>Description of the design project.</p>
       </div>
