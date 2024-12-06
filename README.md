@@ -1,4 +1,4 @@
-# portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +13,7 @@
       <h1>Welcome to My Graphic Design Portfolio</h1>
       <nav>
         <ul>
-          <li><a href="#about">About Me</a></li>
+          <li><a href="#about">About Me "I am a creative and passionate graphic designer with a strong eye for detail, specializing in branding, digital illustration, and UI/UX design. I strive to create designs that not only look visually appealing but also connect with the audience and tell a compelling story."</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
